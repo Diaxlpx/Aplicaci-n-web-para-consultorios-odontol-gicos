@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Entorno / editor
+.vscode/
+.idea/
+*.swp
+
+# Configuración local (si la personaliza)
+# config/database.local.php
+
+# Instalador (no debe subirse en producción)
+# install.php
